@@ -12,3 +12,10 @@ RENCANA CONTENT ianteach
 -Membuat Tutorial DHCP Server
 -Membuat Tutorial Proxy Server
 -Networking Fundamental
+
+-Framworks Javascript
+* Vue
+* React
+-PHP Framworks
+* Laravel
+-Python
