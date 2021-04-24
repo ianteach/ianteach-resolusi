@@ -1,6 +1,6 @@
 ianteach Resolusi
--fokus mengerjakan skripsi.
 -membuat program skripsi hingga menjadi suatu program yang bisa digunakan.
 -mendemokan program skripsi disaat sidang.
 -hasil program skripsi dapat dijadikan acuan untuk mengembangkan program media pembelajaran.
 -fokus belajar tentnag web developer
+-dapat pekerjaan yang sesuai kemampuan
