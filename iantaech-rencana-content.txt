@@ -15,6 +15,7 @@ RENCANA CONTENT ianteach
 
 -Framworks Javascript
 * Vue
+* React
 -PHP Framworks
 * Laravel
 -Python
